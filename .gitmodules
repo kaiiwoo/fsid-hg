@@ -1,0 +1,9 @@
+[submodule "DNNC_few_shot_intent"]
+	path = DNNC_few_shot_intent
+	url = https://github.com/salesforce/DNNC-few-shot-intent
+[submodule "SimCSE"]
+	path = SimCSE
+	url = https://github.com/princeton-nlp/SimCSE
+[submodule "egnn"]
+	path = egnn
+	url = https://github.com/khy0809/fewshot-egnn
